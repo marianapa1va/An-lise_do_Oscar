@@ -121,10 +121,17 @@ Comandos usados:
 
 
 ```
+e
 
+ ```js
+
+{ nome_do_filme: "Central Station" }
+
+```
 
 11- Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser.  
 
+Comando usado:
   
  ```js
 
@@ -134,8 +141,11 @@ Comandos usados:
 
 12 - Pensando no ano em que você nasceu: Qual foi o Oscar de melhor filme, Melhor Atriz e Melhor Diretor? 
 
-  
- ```js
+R: Melhor Filme: Crash ; Melhor Atriz: Reese Witherspoon ; Melhor Diretor: Ang Lee
 
+Comando usado:
+ 
+ ```js
+{ ano_cerimonia: 2006 }
 
 ```
