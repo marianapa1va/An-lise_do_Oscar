@@ -59,7 +59,7 @@ R: Apartir de 1976.
  Comando usado:
  
  ```js
-
+db.orcar_analise.find({categoria: "ACTRESS"}).sort({cerimonia: -1})
 
 ```
 
@@ -134,6 +134,26 @@ e
 Comando usado:
   
  ```js
+db.oscar_analise.insertMany([{
+  
+   "ano_cerimonia": 2016,
+   "categoria": "Music (Original Score)",
+   "nome_do_filme": "Your Name",
+   "vencedor": "1"
+},
+{
+    "ano_de_cerimonia": 2013,
+    "categoria": "BEST PICTURE",
+    "nome_do_filme": "Valente",
+    "vencedor": "1"
+},
+{
+
+    "ano_de_cerimonia": 2004,
+    "categoria": "FILM EDITING",
+    "nome_do_filme": "Olga",
+    "vencedor": "1"
+}])
 
 
 ```
