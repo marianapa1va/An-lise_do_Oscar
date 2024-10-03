@@ -113,7 +113,7 @@ Comando usado:
 
 R: Sim, ele aparece como: Central Station 
 
-Comandos usados:
+Comandos usado:
 
  ```js
 
