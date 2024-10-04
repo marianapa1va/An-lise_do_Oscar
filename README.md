@@ -1,8 +1,8 @@
 # Análise do Oscar.
 
-Atividades para trabalhar com o Oscar: 
+(Banco de dados)
 
- 
+Atividades para trabalhar com o Oscar: 
 
 1- Quantas vezes Natalie Portman foi indicada ao Oscar? 
 
